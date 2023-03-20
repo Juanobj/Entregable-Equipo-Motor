@@ -24,7 +24,7 @@ class Equipo {
     }
   
     editar_equipo() {
-      // Código para editar equipo
+      // Código para editar equipos
     }
   }
   
